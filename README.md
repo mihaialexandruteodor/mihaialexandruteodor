@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">
+ Hi there 👋
+</h1>
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=mihaialexandruteodor&show_icons=true&theme=tokyonight">
