@@ -3,8 +3,11 @@
 </h1>
 
 <h3 align="center">Leetcode stats:</h3>
+
 <p align="center">
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<a href="https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark">
+  <img align="center" src="https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark" />
+</a>
 </p>
 
 <p align="center">
