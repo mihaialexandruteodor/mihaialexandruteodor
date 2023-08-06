@@ -5,7 +5,7 @@
 <h3 align="center">Leetcode stats:</h3>
 
 <p align="center">
-<a href="https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark">
+<a href="https://leetcode.com/mihaialexandruteodor/">
   <img align="center" src="https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark" />
 </a>
 </p>
