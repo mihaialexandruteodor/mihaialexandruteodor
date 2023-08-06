@@ -2,7 +2,10 @@
  Hi there 👋
 </h1>
 
+<h3 align="center">Leetcode stats:</h3>
+<p align="center">
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+</p>
 
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=mihaialexandruteodor&show_icons=true&theme=tokyonight">
