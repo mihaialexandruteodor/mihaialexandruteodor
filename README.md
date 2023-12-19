@@ -2,6 +2,12 @@
  Hi there 👋
 </h1>
 
+<p align="center">
+<span class="fs-8">
+[Resume Website](https://mihaialexandruteodor.github.io/teo_mihai_portfolio/){: .btn }
+</span>
+</p>
+
 <h3 align="center">Leetcode stats:</h3>
 
 <p align="center">
