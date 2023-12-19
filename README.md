@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-<span class="fs-8">
-[Resume Website](https://mihaialexandruteodor.github.io/teo_mihai_portfolio/){: .btn }
-</span>
+<a href="https://mihaialexandruteodor.github.io/teo_mihai_portfolio/">
+  <img align="center" src="https://raw.githubusercontent.com/mihaialexandruteodor/mihaialexandruteodor/master/button_resume.png" />
+</a>
 </p>
 
 <h3 align="center">Leetcode stats:</h3>
