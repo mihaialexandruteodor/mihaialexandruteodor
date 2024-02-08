@@ -22,10 +22,10 @@
 </a>
 </p>
 
-<p align="center">
+<!--p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mihaialexandruteodor&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-</p>
+</p-->
   
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihaialexandruteodor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
