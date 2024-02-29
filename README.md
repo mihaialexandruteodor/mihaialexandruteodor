@@ -2,11 +2,11 @@
  Hi there 👋
 </h1>
 
-<p align="center">
+<!--p align="center">
 <a href="https://mihaialexandruteodor.github.io/teo_mihai_portfolio/">
   <img align="center" src="https://raw.githubusercontent.com/mihaialexandruteodor/mihaialexandruteodor/master/button_resume.png" />
 </a>
-</p>
+</p-->
 
 <h3 align="center">Leetcode stats:</h3>
 
