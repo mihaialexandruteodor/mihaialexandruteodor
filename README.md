@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://leetcode.com/mihaialexandruteodor/">
-  <img align="center" src="https://leetcode-stats-six.vercel.app/?username=mihaialexandruteodor&theme=dark" />
+  <img align="center" src="https://leetcode-stats.vercel.app/api?username=mihaialexandruteodor&theme=Dark" />
 </a>
 </p>
 
