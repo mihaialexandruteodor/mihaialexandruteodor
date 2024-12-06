@@ -1,7 +1,6 @@
 <h1 align="center">
  Hi there 👋
 
-<a href="https://github.com/mihaialexandruteodor/ResumeWizard">Current pet project: Resume Wizard</a>
 </h1>
 
 <!--p align="center">
