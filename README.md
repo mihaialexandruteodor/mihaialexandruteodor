@@ -1,6 +1,8 @@
 <h1 align="center">
  Hi there 👋
 
+ [teodormihai.dev](https://teodormihai.dev)
+
 </h1>
  <p align="center">
   <img src="repoImages/code4food.png" />
