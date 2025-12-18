@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi there 👋
+ Hi there <img src="repoImages/Hi.gif" width="35px">
 
  [teodormihai.dev](https://teodormihai.dev)
 
