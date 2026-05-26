@@ -8,7 +8,7 @@
   <img src="repoImages/code4food.png" />
  </p> 
 
- <h3 align="center">Leetcode stats:</h3>
+ <!--h3 align="center">Leetcode stats:</h3-->
  
  <!--p align="center">
  <a href="https://leetcode.com/mihaialexandruteodor/">
