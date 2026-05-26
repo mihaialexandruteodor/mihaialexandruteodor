@@ -10,11 +10,11 @@
 
  <h3 align="center">Leetcode stats:</h3>
  
- <p align="center">
+ <!--p align="center">
  <a href="https://leetcode.com/mihaialexandruteodor/">
    <img align="center" src="https://leetcode-stats.vercel.app/api?username=mihaialexandruteodor&theme=Dark" />
  </a>
- </p>
+ </p-->
  
  <!--p align="center">
  <a href="https://github-readme-stats.vercel.app/api?username=mihaialexandruteodor&show_icons=true&theme=tokyonight">
